@@ -27,3 +27,5 @@ console.log(person)
 
 person.family_members.push("Dinda")
 console.log(person)
+
+console.log(5*5)

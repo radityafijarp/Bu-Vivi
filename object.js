@@ -4,14 +4,15 @@ let person = {
   };
 
 
-// Cara untuk ambil value dalam sebuah object
-// console.log(`name ${person.name}`)
-// console.log(`age ${person.age}`)
-// attribut1="name"
-// attribut2="age"
 
-// console.log(`name ${person[attribut1]}`)
-// console.log(`age ${person[attribut2]}`)
+// Cara untuk ambil value dalam sebuah object
+console.log(`name ${person.name}`)
+console.log(`age ${person.age}`)
+attribut1="name"
+attribut2="age"
+
+console.log(`name ${person[attribut1]}`)
+console.log(`age ${person[attribut2]}`)
 
 // Tambah nilai baru
 // person.address="Jakarta" //cara 1
